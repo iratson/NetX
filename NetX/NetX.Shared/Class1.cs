@@ -1,0 +1,6 @@
+﻿namespace NetX.Shared;
+
+public class Class1
+{
+
+}

@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetX.Application", "NetX.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetX.Infrastructure", "NetX.Infrastructure\NetX.Infrastructure.csproj", "{B2CDA7CE-0062-4FF4-82E9-D24F922025F4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetX.Shared", "NetX.Shared\NetX.Shared.csproj", "{A025A60B-B604-42E6-8A4D-50639AA24D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{B2CDA7CE-0062-4FF4-82E9-D24F922025F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2CDA7CE-0062-4FF4-82E9-D24F922025F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2CDA7CE-0062-4FF4-82E9-D24F922025F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A025A60B-B604-42E6-8A4D-50639AA24D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A025A60B-B604-42E6-8A4D-50639AA24D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A025A60B-B604-42E6-8A4D-50639AA24D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A025A60B-B604-42E6-8A4D-50639AA24D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

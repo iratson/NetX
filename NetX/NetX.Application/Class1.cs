@@ -1,5 +1,6 @@
 ﻿namespace NetX.Application;
 
-public class Class1
+public class BaseEntity
 {
+    public long Id { get; set; }    
 }
